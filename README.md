@@ -4,7 +4,7 @@ Projeto de um **relógio digital** desenvolvido com **HTML, CSS e JavaScript**, 
 
 ## 🖥️ Demonstração
 🔗 Acesse o projeto:  
-https://ariellsilva.github.io/Relogio-Digital/
+https://ariellsilva.github.io/Rel-gio-Digital/
 
 ## 🚀 Tecnologias utilizadas
 - **HTML5** – Estrutura da página  
